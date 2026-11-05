@@ -1,0 +1,9 @@
+Copy these files from the old server (or backup) into the same paths:
+/wp-content/uploads/2011/01/Optimismone.jpg
+/wp-content/uploads/2011/01/UpWingers.jpg
+/wp-content/uploads/2011/01/are-you-a-transhuman-sml.jpg
+/wp-content/uploads/2011/01/fm-2030.jpg
+/wp-content/uploads/2011/01/identity-card-sml.jpg
+/wp-content/uploads/2011/01/thebegger.jpg
+/wp-content/uploads/2011/01/thedayofsacrifice.jpg
+/wp-content/uploads/2011/02/countdown-to-immortality-sml.jpg
